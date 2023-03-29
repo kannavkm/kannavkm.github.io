@@ -9,19 +9,18 @@ tags:
   - test
   - docs
 ogImage: ""
-description:
-  first test post on new blog
+description: first test post on new blog
 ---
 
 If you are seeing this, all is working
 
 # heading
+
 ## subheading
+
 ### sub sub heading
 
-
-
-```c++
+```cpp
 #include <bits/stdc++h>
 
 using namespace std;

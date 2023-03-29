@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "kannav.me",
+  website: "https://kannav.me",
   author: "Kannav Mehtaa",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "exclowd",
@@ -54,7 +54,7 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `kanmeh on YouTube`,
     active: false,
   },
-    {
+  {
     name: "GitLab",
     href: "https://gitlab.com/exclowd",
     linkTitle: `${SITE.title} on GitLab`,
