@@ -4,7 +4,7 @@ pubDatetime: 2022-09-23T15:22:00Z
 title: Test blog post
 postSlug: test-blog-post
 featured: true
-draft: false
+draft: true
 tags:
   - test
   - docs

@@ -1,4 +1,18 @@
+---
+author: Kannav
+pubDatetime: 2022-09-23T15:22:00Z
+title: Where to study databases from
+postSlug: databases-study
+featured: false
+draft: true
+tags:
+  - papershelf
+ogImage: ""
+description: Where does this show up
+---
+
 # Where to study it from? Databases
+
 
 1. Data Structures
 
@@ -35,12 +49,12 @@
    3. Distributed OLTP
       1. 2PC
       2. Raft and Paxos
-      3. Chubby -> Zookeper
+      3. Chubby -> Zookeeper
    4. Distributed OLAP
       1. Map Reduce
       2. Dremel -> Big Query
       3. Spark
-      4. SnowfLake
+      4. Snowflake
    5. systems
       1. GFS -> Hadoop
       2. BigTable -> HBase

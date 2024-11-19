@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://kannav.me",
-  author: "Kannav Mehtaa",
+  website: "https://kannavkm.github.io",
+  author: "Kannav Mehta",
   desc: "My space on the internet",
-  title: "exclowd",
+  title: "kannavkm",
   ogImage: "exclowd-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 5,
@@ -20,15 +20,9 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/exclowd",
+    href: "https://github.com/kannavkm",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
-  },
-  {
-    name: "Instagram",
-    href: "https://instagram.com/kannav.1",
-    linkTitle: `kannav.1 on Instagram`,
-    active: false,
   },
   {
     name: "LinkedIn",
@@ -38,13 +32,13 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "kmkannavkmehta@mail.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true
   },
   {
     name: "Twitter",
-    href: "https://twitter.com/exclowd",
+    href: "https://twitter.com/kannavkm",
     linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },
